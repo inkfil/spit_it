@@ -1,0 +1,3 @@
+[submodule "deps/node-scrypt"]
+	path = deps/node-scrypt
+	url = https://github.com/barrysteyn/node-scrypt
